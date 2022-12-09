@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T20:00:33.610Z" agent="5.0 (Macintosh)" etag="6VOZSmXGcVSWifQ_V4xt" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T20:01:23.733Z" agent="5.0 (Macintosh)" etag="GLTsGmDR_RIHztK1jNbF" version="20.6.2" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="3139" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="QYALVXL8oTtBSw0v3C-n-21702" value="Complement&lt;br&gt;(not)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
           <mxGeometry x="-347" y="270" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QYALVXL8oTtBSw0v3C-n-21703" value="Union" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-plus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+        <mxCell id="QYALVXL8oTtBSw0v3C-n-21703" value="Union&lt;br&gt;(and)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-plus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
           <mxGeometry x="-255.5" y="270" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QYALVXL8oTtBSw0v3C-n-21704" value="One-IT-Include" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#dae8fc;strokeColor=#FFFF00;" vertex="1" parent="1">
