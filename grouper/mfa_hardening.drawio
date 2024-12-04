@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.1">
   <diagram name="Page-1" id="3NJx9XNA6RdzCbflqY3z">
-    <mxGraphModel>
+    <mxGraphModel dx="3458" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6En0WZUqItZD7mJz8JTq-1" value="Key" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;verticalAlign=top;dashed=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="43" width="310" height="327" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-3" value="Current State" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="43" width="540" height="397" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a data-original-title=&quot;&lt;strong&gt;FOLDER&lt;/strong&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;edu : Berkeley : Applications : Duo-ISO : duo-iso-policy-groups : risk-based-mfa&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;&lt;/span&gt;&quot; data-placement=&quot;right&quot; data-delay-show=&quot;200&quot; data-html=&quot;true&quot; rel=&quot;tooltip&quot; style=&quot;white-space: nowrap&quot; data-gr-browse-group-name=&quot;edu:berkeley:app:Duo-ISO:duo-iso-policy-groups:risk-based-mfa:iso-risk-based-mfa-enforced&quot; href=&quot;https://calgroups.berkeley.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&amp;amp;groupId=5aa75e025fd240bdb62411cbc21d88f1&quot;&gt;iso-risk-based-mfa-enforced&lt;/a&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-724" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-11" value="Intersection" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/intersect-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-445.5" y="277.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-973" y="308" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-plus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="128" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/math-business-icon-set/93/1_5-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="308" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a data-original-title=&quot;&lt;strong&gt;FOLDER&lt;/strong&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;edu : Berkeley : Applications : Duo-ISO : duo-iso-policy-groups : risk-based-mfa&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;&lt;/span&gt;&quot; data-placement=&quot;right&quot; data-delay-show=&quot;200&quot; data-html=&quot;true&quot; rel=&quot;tooltip&quot; style=&quot;white-space: nowrap&quot; data-gr-browse-group-name=&quot;edu:berkeley:app:Duo-ISO:duo-iso-policy-groups:risk-based-mfa:iso-risk-based-mfa-excluded&quot; href=&quot;https://calgroups.berkeley.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&amp;amp;groupId=9aab150a212849a29279dd6c719a71ea&quot;&gt;iso-risk-based-mfa-excluded&lt;/a&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-909" y="283" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-20" value="Staff and Faculty" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-909" y="103" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/math-business-icon-set/93/1_5-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-976" y="128" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-23" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a href=&quot;https://calgroups.berkeley.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&amp;amp;groupId=4360d8b6d93b49ee98dcae05116fe3e5&quot; data-gr-browse-group-name=&quot;edu:berkeley:app:Duo-ISO:duo-iso-policy-groups:risk-based-mfa:iso-risk-based-mfa-source&quot; style=&quot;white-space: nowrap&quot; rel=&quot;tooltip&quot; data-html=&quot;true&quot; data-delay-show=&quot;200&quot; data-placement=&quot;right&quot; data-original-title=&quot;&lt;strong&gt;FOLDER&lt;/strong&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;edu : Berkeley : Applications : Duo-ISO : duo-iso-policy-groups : risk-based-mfa&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;Source official groups used for hardened MFA as well as ad-hoc includes. &lt;/span&gt;&quot;&gt;iso-risk-based-mfa-source&lt;/a&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1094" y="103" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=default;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1044.5" y="216.5" as="sourcePoint" />
+            <mxPoint x="-1044.5" y="276.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-25" value="Official Group" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-445.5" y="80" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Composite Group&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-355.5" y="80" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-27" value="Ad-Hoc Group" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-445.5" y="170" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-28" value="Result Group" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-355.5" y="170" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-29" value="Complement&lt;br&gt;(not)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-minus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-347" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-30" value="Union&lt;br&gt;(and)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-plus-outline-128.png;fontSize=12;fontColor=default;fillColor=#B18754;" vertex="1" parent="1">
+          <mxGeometry x="-255.5" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;New Group&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=none;strokeColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="-264" y="170" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-59" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a data-original-title=&quot;&lt;strong&gt;FOLDER&lt;/strong&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;edu : Berkeley : Applications : Duo-ISO : duo-iso-policy-groups : risk-based-mfa&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;ad-hoc includes that are not part of iso-risk-based-mfa-source&lt;/span&gt;&quot; data-placement=&quot;right&quot; data-delay-show=&quot;200&quot; data-html=&quot;true&quot; rel=&quot;tooltip&quot; style=&quot;white-space: nowrap&quot; data-gr-browse-group-name=&quot;edu:berkeley:app:Duo-ISO:duo-iso-policy-groups:risk-based-mfa:iso-risk-based-mfa-included&quot; href=&quot;https://calgroups.berkeley.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&amp;amp;groupId=337ec797bcda4b2c9d9dddcfe0b98ec7&quot;&gt;iso-risk-based-mfa-included&lt;/a&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-724" y="103" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6En0WZUqItZD7mJz8JTq-61" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;a data-original-title=&quot;&lt;strong&gt;FOLDER&lt;/strong&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;edu : Berkeley : Applications : Duo-ISO : duo-iso-policy-groups : risk-based-mfa&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&amp;quot;grouperUiTooltip&amp;quot;&gt;Source official groups used for hardened MFA as well as ad-hoc includes. &lt;/span&gt;&quot; data-placement=&quot;right&quot; data-delay-show=&quot;200&quot; data-html=&quot;true&quot; rel=&quot;tooltip&quot; style=&quot;white-space: nowrap&quot; data-gr-browse-group-name=&quot;edu:berkeley:app:Duo-ISO:duo-iso-policy-groups:risk-based-mfa:iso-risk-based-mfa-source&quot; href=&quot;https://calgroups.berkeley.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&amp;amp;groupId=4360d8b6d93b49ee98dcae05116fe3e5&quot;&gt;iso-risk-based-mfa-source&lt;/a&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1094" y="277.5" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
